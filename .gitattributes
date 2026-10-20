@@ -1,0 +1,14 @@
+# Do not edit manually
+# Generated on 2026-11-05
+public/* linguist-vendored
+*.sh text eol=lf
+*.yml linguist-detectable=false
+package-lock.json linguist-generated
+*.woff2 binary
+public/*.html linguist-vendored  
+
+**/*.py linguist-detectable
+
+*.min.css linguist-generated
+yarn.lock linguist-generated
+# eof a64fc290
